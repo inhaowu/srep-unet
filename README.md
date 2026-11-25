@@ -4,7 +4,7 @@
   <a href="https://papers.miccai.org/miccai-2026/0521-Paper4240.html"><img alt="Paper - MICCAI 2026 Oral" src="https://img.shields.io/badge/Paper-MICCAI%202026%20Oral-0969DA?logo=readthedocs&amp;logoColor=white"></a>
   <a href="./s-rep-unet.pdf"><img alt="Slides - PDF preview" src="https://img.shields.io/badge/Slides-PDF-B7472A?logo=slides&amp;logoColor=white"></a>
   <br>
-  <sub><a href="https://raw.githubusercontent.com/inhaowu/srep-unet/main/s-rep-unet.pptx">Download PowerPoint</a></sub>
+  <sub><a href="https://github.com/inhaowu/srep-unet/raw/refs/heads/main/s-rep-unet.pptx">Download PowerPoint</a></sub>
 </p>
 
 Official implementation of our MICCAI 2026 paper. Given a 3D image, the network jointly predicts the segmentation
