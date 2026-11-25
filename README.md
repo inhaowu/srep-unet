@@ -1,7 +1,11 @@
 # Joint Segmentation and Graph-Based Skeletal Representation Learning with Geometric Priors
 
-[![Paper - MICCAI 2026 Oral](https://img.shields.io/badge/Paper-MICCAI%202026%20Oral-0969DA?logo=readthedocs&logoColor=white)](https://papers.miccai.org/miccai-2026/0521-Paper4240.html)
-[![Slides - PowerPoint](https://img.shields.io/badge/Slides-PowerPoint-B7472A?logo=slides&logoColor=white)](./s-rep-unet.pptx?raw=true)
+<p align="center">
+  <a href="https://papers.miccai.org/miccai-2026/0521-Paper4240.html"><img alt="Paper - MICCAI 2026 Oral" src="https://img.shields.io/badge/Paper-MICCAI%202026%20Oral-0969DA?logo=readthedocs&amp;logoColor=white"></a>
+  <a href="./s-rep-unet.pdf"><img alt="Slides - PDF preview" src="https://img.shields.io/badge/Slides-PDF-B7472A?logo=slides&amp;logoColor=white"></a>
+  <br>
+  <sub><a href="https://raw.githubusercontent.com/inhaowu/srep-unet/main/s-rep-unet.pptx">Download PowerPoint</a></sub>
+</p>
 
 Official implementation of our MICCAI 2026 paper. Given a 3D image, the network jointly predicts the segmentation
 and the skeletal representation (s-rep) of the structure: a 3D U-Net produces the foreground probability map, and
